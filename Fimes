@@ -1,14 +1,29 @@
+<channels>
+<channel>
+<name>Filmes Nacionais</name>
+<thumbnail>https://archive.org/download/nacionais_202002/nacionais.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601404.us.archive.org/28/items/fanart_20200128/fanart.jpg</fanart>
+<info>
 
 
-<item>
-<title>Senna</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BwEYbspSuqXPenJ2U1M2WDZsM0k/view$$1sname=[COLOR orange]HD[/COLOR] - Senna 1</link>
-<thumbnail>https://archive.org/download/65a320d86e1afef28ebbae102f4fb5ae/65a320d86e1afef28ebbae102f4fb5ae.png</thumbnail>
+[COLOR deeppink]|[/COLOR] Os Melhores Filmes [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>Filmes Nacionais</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
 <fanart></fanart>
-<info><info>
-</info>
+<info>
 
 
+[COLOR deeppink]|[/COLOR] Suas Séries Favoritas [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
 
 
