@@ -1,13 +1,29 @@
 <channels>
 <channel>
-<name>Filmes</name>
+<name>Filmes Nacionais</name>
 <thumbnail>https://archive.org/download/iconefilmes/IconeFilmes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801404.us.archive.org/28/items/fanart_20200128/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] Os Melhores Filmes [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] Os Melhores Filmes Nacionais[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>Filmes Internacionais</name>
+<thumbnail>https://archive.org/download/iconefilmes/IconeFilmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801404.us.archive.org/28/items/fanart_20200128/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] Os Melhores Filmes Internacionais[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
